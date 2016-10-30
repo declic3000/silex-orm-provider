@@ -17,7 +17,7 @@
         "doctrine/orm": "~2.3",
         "doctrine/common": "~2.3",
         "doctrine/dbal": "~2.3",
-        "symfony/doctrine-bridge": "~2.6.0"
+        "symfony/doctrine-bridge": "~2.8.0"
     },
     "suggest": {
         "symfony/console": "Necessary if you would like to use the Doctrine CLI tools"
