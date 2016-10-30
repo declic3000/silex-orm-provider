@@ -1,5 +1,5 @@
 {
-    "name": "fredjuvaux/doctrine-orm-provider",
+    "name": "declic3000/doctrine-orm-provider",
     "description": "Doctrine ORM provider for Silex",
     "keywords": ["silex", "doctrine", "orm", "database", "extension", "provider"],
     "license": "MIT",
@@ -17,7 +17,7 @@
         "doctrine/orm": "~2.8",
         "doctrine/common": "~2.8",
         "doctrine/dbal": "~2.8",
-        "symfony/doctrine-bridge": "~2.8.0"
+        "symfony/doctrine-bridge": "~2.8"
     },
     "suggest": {
         "symfony/console": "Necessary if you would like to use the Doctrine CLI tools"
